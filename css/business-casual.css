@@ -36,6 +36,10 @@ hr {
     border-color: #999999;
 }
 
+.logo {
+    text-align: center;
+}
+
 .brand,
 .address-bar {
     display: none;
